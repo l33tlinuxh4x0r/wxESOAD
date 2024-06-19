@@ -38,7 +38,6 @@ https://www.esoui.com/downloads/info2171-LibZone.html
 https://www.esoui.com/downloads/info1568-LibWorldMapInfoTab.html
 https://www.esoui.com/downloads/info288-LoreBooks.html
 https://www.esoui.com/downloads/info1881-MapPins.html
-https://www.esoui.com/downloads/info182-NoFade.html
 https://www.esoui.com/downloads/info1314-PetDismiss.html
 https://www.esoui.com/downloads/info1884-PetHealth.html
 https://www.esoui.com/downloads/info1758-PorttoFriendsHouse.html
