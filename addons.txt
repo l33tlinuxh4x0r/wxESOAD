@@ -18,6 +18,8 @@ https://www.esoui.com/downloads/info2275-LibDebugLogger.html
 https://www.esoui.com/downloads/info2276-LibGetText.html
 https://www.esoui.com/downloads/info601-LibGPS.html
 https://www.esoui.com/downloads/info584-LibHarvensAddonsSettings.html
+https://www.esoui.com/downloads/info2817-LibHistoire-GuildHistory.html
+https://www.esoui.com/downloads/info3585-LibId64.html
 https://www.esoui.com/downloads/info1594-LibLazyCrafting.html
 https://www.esoui.com/downloads/info2363-LibLootSummary.html
 https://www.esoui.com/downloads/info3353-LibMapData.html
