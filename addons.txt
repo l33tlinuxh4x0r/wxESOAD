@@ -9,6 +9,7 @@ https://www.esoui.com/downloads/info2277-LibDateTime.html
 https://www.esoui.com/downloads/info1346-DolgubonsLazyWritCrafter.html
 https://www.esoui.com/downloads/info2722-ExterminatusGroupLeader-Updated.html
 https://www.esoui.com/downloads/info1089-FasterTravelWayshrinesmenuTeleporter.html
+https://www.esoui.com/downloads/info1618-GroupLootNotifier.html
 https://www.esoui.com/downloads/info937-HarvensAStoLAMadapter.html
 https://www.esoui.com/downloads/info7-LibAddonMenu.html
 https://www.esoui.com/downloads/info2125-LibAsync.html
