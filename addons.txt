@@ -51,6 +51,7 @@ https://www.esoui.com/downloads/info2500-rChat.html
 https://www.esoui.com/downloads/info1474-ReloadUiButton.html
 https://www.esoui.com/downloads/info3079-ShowTTCPrice.html
 https://www.esoui.com/downloads/info128-SkyShards.html
+https://www.esoui.com/downloads/info204-SlightlyImprovedExperienceBarFixedveterandisplay.html
 https://www.esoui.com/downloads/info1245-TamrielTradeCentre.html
 https://www.esoui.com/downloads/info1863-UrichsSkillPointFinder.html
 https://www.esoui.com/downloads/info1523-VotansImprovedQuests.html
