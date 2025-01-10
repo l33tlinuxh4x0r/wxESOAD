@@ -41,6 +41,7 @@ https://www.esoui.com/downloads/info2171-LibZone.html
 https://www.esoui.com/downloads/info1568-LibWorldMapInfoTab.html
 https://www.esoui.com/downloads/info288-LoreBooks.html
 https://www.esoui.com/downloads/info1881-MapPins.html
+https://www.esoui.com/downloads/info2080-PermanentExperienceBar.html
 https://www.esoui.com/downloads/info1314-PetDismiss.html
 https://www.esoui.com/downloads/info1884-PetHealth.html
 https://www.esoui.com/downloads/info1758-PorttoFriendsHouse.html
@@ -51,7 +52,6 @@ https://www.esoui.com/downloads/info2500-rChat.html
 https://www.esoui.com/downloads/info1474-ReloadUiButton.html
 https://www.esoui.com/downloads/info3079-ShowTTCPrice.html
 https://www.esoui.com/downloads/info128-SkyShards.html
-https://www.esoui.com/downloads/info204-SlightlyImprovedExperienceBarFixedveterandisplay.html
 https://www.esoui.com/downloads/info1245-TamrielTradeCentre.html
 https://www.esoui.com/downloads/info1863-UrichsSkillPointFinder.html
 https://www.esoui.com/downloads/info1523-VotansImprovedQuests.html
