@@ -54,5 +54,6 @@ https://www.esoui.com/downloads/info3079-ShowTTCPrice.html
 https://www.esoui.com/downloads/info128-SkyShards.html
 https://www.esoui.com/downloads/info1245-TamrielTradeCentre.html
 https://www.esoui.com/downloads/info1863-UrichsSkillPointFinder.html
+https://www.esoui.com/downloads/info1482-VotansAdvancedSettings.html
 https://www.esoui.com/downloads/info1523-VotansImprovedQuests.html
 https://www.esoui.com/downloads/info1399-VotansMinimap.html
