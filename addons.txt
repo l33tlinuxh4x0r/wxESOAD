@@ -46,7 +46,6 @@ https://www.esoui.com/downloads/info1314-PetDismiss.html
 https://www.esoui.com/downloads/info1884-PetHealth.html
 https://www.esoui.com/downloads/info1758-PorttoFriendsHouse.html
 https://www.esoui.com/downloads/info2921-PorttoJoakaFastPorttoGroupLeader.html
-https://www.esoui.com/downloads/info850-PostmasterMail.html
 https://www.esoui.com/downloads/info1022-QuestMap.html
 https://www.esoui.com/downloads/info2500-rChat.html
 https://www.esoui.com/downloads/info1474-ReloadUiButton.html
