@@ -16,7 +16,7 @@ def create_addon_files():
     addons_location = addons_location_file.read()
     if addons_location == "":
         if platform.system() == "Windows":
-            addons_location = f"{Path.home()}/Documents/Elder Scrolls Online/live/AddOns"
+            addons_location = os.path.abspath(os.path.expanduser("~\\Documents\\") + "Elder Scrolls Online\\live\\AddOns\\")
         else:
             addons_location = f"{Path.home()}/.local/share/Steam/steamapps/compatdata/306130/pfx/drive_c/users/steamuser/Documents/Elder Scrolls Online/live/AddOns"
     addons_file.close()
