@@ -44,7 +44,7 @@ class AddonDownloader():
         self.set_status_text("Downloading: " + download_url)
         tempfilename = self.addon_temp_folder + "/" + self.addon_temp_name.format(str(file_number))
         request = Request(url=download_url, headers=self.headers)
-        response = urlopen(request, cafile=None)
+        response = urlopen(request)
         if response.getcode() != 200:
             return False
         with open(tempfilename, "wb") as f:
