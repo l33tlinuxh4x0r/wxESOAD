@@ -13,6 +13,7 @@ https://www.esoui.com/downloads/info1618-GroupLootNotifier.html
 https://www.esoui.com/downloads/info937-HarvensAStoLAMadapter.html
 https://www.esoui.com/downloads/info7-LibAddonMenu.html
 https://www.esoui.com/downloads/info2125-LibAsync.html
+https://www.esoui.com/downloads/info3805-LibChatMenuButton.html
 https://www.esoui.com/downloads/info2382-LibChatMessage.html
 https://www.esoui.com/downloads/info1146-LibCustomMenu.html
 https://www.esoui.com/downloads/info2275-LibDebugLogger.html
