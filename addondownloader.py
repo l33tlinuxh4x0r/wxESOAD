@@ -27,7 +27,7 @@ class AddonDownloader():
         self.file_number = 0
         for link in links:
             if link != "" and link.startswith("#") != True:
-                info = re.findall("esoui.com/downloads/info(\d*)", link)[0]
+                info = re.findall(r"esoui.com/downloads/info(\d*)", link)[0]
                 download_url = f"https://cdn.esoui.com/downloads/file{info}/{str(int(time.time()))}"
                 file = self.download(self.file_number, download_url)
                 if file == False:
