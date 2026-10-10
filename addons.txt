@@ -44,6 +44,7 @@ https://www.esoui.com/downloads/info1881-MapPins.html
 https://www.esoui.com/downloads/info2080-PermanentExperienceBar.html
 https://www.esoui.com/downloads/info1314-PetDismiss.html
 https://www.esoui.com/downloads/info1884-PetHealth.html
+https://www.esoui.com/downloads/info2090-PointsofColor.html
 https://www.esoui.com/downloads/info1758-PorttoFriendsHouse.html
 https://www.esoui.com/downloads/info2921-PorttoJoakaFastPorttoGroupLeader.html
 https://www.esoui.com/downloads/info1022-QuestMap.html
