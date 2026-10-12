@@ -3,8 +3,6 @@ https://www.esoui.com/downloads/info695-AwesomeGuildStore.html
 https://www.esoui.com/downloads/info2857-BountyTimeDisplay.html
 https://www.esoui.com/downloads/info1224-CirconiansLibNotifications.html
 https://www.esoui.com/downloads/info185-CustomCompassPins.html
-https://www.esoui.com/downloads/info1899-DailyAlchemy.html
-https://www.esoui.com/downloads/info1901-DailyProvisioning.html
 https://www.esoui.com/downloads/info2277-LibDateTime.html
 https://www.esoui.com/downloads/info1346-DolgubonsLazyWritCrafter.html
 https://www.esoui.com/downloads/info2722-ExterminatusGroupLeader-Updated.html
