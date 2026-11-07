@@ -3,7 +3,6 @@ https://www.esoui.com/downloads/info695-AwesomeGuildStore.html
 https://www.esoui.com/downloads/info2857-BountyTimeDisplay.html
 https://www.esoui.com/downloads/info1224-CirconiansLibNotifications.html
 https://www.esoui.com/downloads/info185-CustomCompassPins.html
-https://www.esoui.com/downloads/info2277-LibDateTime.html
 https://www.esoui.com/downloads/info1346-DolgubonsLazyWritCrafter.html
 https://www.esoui.com/downloads/info2722-ExterminatusGroupLeader-Updated.html
 https://www.esoui.com/downloads/info1089-FasterTravelWayshrinesmenuTeleporter.html
@@ -14,6 +13,7 @@ https://www.esoui.com/downloads/info2125-LibAsync.html
 https://www.esoui.com/downloads/info3805-LibChatMenuButton.html
 https://www.esoui.com/downloads/info2382-LibChatMessage.html
 https://www.esoui.com/downloads/info1146-LibCustomMenu.html
+https://www.esoui.com/downloads/info2277-LibDateTime.html
 https://www.esoui.com/downloads/info2275-LibDebugLogger.html
 https://www.esoui.com/downloads/info2276-LibGetText.html
 https://www.esoui.com/downloads/info601-LibGPS.html
