@@ -6,7 +6,6 @@ https://www.esoui.com/downloads/info185-CustomCompassPins.html
 https://www.esoui.com/downloads/info1346-DolgubonsLazyWritCrafter.html
 https://www.esoui.com/downloads/info2722-ExterminatusGroupLeader-Updated.html
 https://www.esoui.com/downloads/info1089-FasterTravelWayshrinesmenuTeleporter.html
-https://www.esoui.com/downloads/info1618-GroupLootNotifier.html
 https://www.esoui.com/downloads/info937-HarvensAStoLAMadapter.html
 https://www.esoui.com/downloads/info7-LibAddonMenu.html
 https://www.esoui.com/downloads/info2125-LibAsync.html
@@ -38,6 +37,7 @@ https://www.esoui.com/downloads/info1311-LibTextFilter.html
 https://www.esoui.com/downloads/info3227-LibTreasure.html
 https://www.esoui.com/downloads/info2171-LibZone.html
 https://www.esoui.com/downloads/info1568-LibWorldMapInfoTab.html
+https://www.esoui.com/downloads/info1455-LootLog.html
 https://www.esoui.com/downloads/info1881-MapPins.html
 https://www.esoui.com/downloads/info3411-Namez-Moreinfowhenyouputyourreticleonotherplayers.html
 https://www.esoui.com/downloads/info2080-PermanentExperienceBar.html
